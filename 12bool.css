@@ -205,6 +205,7 @@
     .col-md-offset-11 {
         margin-left: calc((100% / 12) * 11);
     }
+
 }
 
 @media screen and (min-width: 992px) {
@@ -303,4 +304,5 @@
     .col-lg-offset-11 {
         margin-left: calc((100% / 12) * 11);
     }
+
 }
